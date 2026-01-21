@@ -3,7 +3,7 @@
 A robust, terminal-based Linear Programming (LP) solver implemented in C. It uses the **Simplex Method** and the **Two-Phase Simplex Method** to find optimal solutions for maximization and minimization problems.
 
 To ensure high precision and avoid the rounding errors typically associated with floating-point math, this solver utilizes a custom **Fractional Arithmetic** engine.
-
+too lazy to make a gui just follow the sample file to enter your linear program 
 ## Features
 
 - **Exact Precision**: Performs all calculations using fractions (numerator/denominator) with automatic simplification (GCD).
